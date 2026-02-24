@@ -69,6 +69,11 @@
             bindings = <&kp ESC>;
         };
 
+        settings_layer {
+            bindings = <&mo 4>;
+            key-positions = <30 31>;
+        };
+
         // left index & middle fingers (home-row)
         // hold control & space for Adobe workflowesc {};
     };
