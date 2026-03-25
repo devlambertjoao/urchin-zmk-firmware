@@ -107,7 +107,7 @@
             bindings = <
 &kp TAB    &trans     &trans     &trans      &trans  &trans         &kp GRAVE   &kp TILDE  &kp BACKSLASH  &kp PIPE
 &sk LCTRL  &sk LGUI   &sk LALT   &sk LSHIFT  &trans  &kp BACKSPACE  &kp LSHIFT  &kp LALT   &kp LGUI       &kp LCTRL
-&kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)   &trans  &kp DELETE     &kp LEFT    &kp DOWN   &kp UP_ARROW   &kp RIGHT
+&kp LG(Z)  &kp LG(X)  &kp LG(C)  &kp LG(V)   &trans  &kp DELETE     &kp LEFT    &kp DOWN   &kp UP_ARROW   &kp RIGHT
                                  &trans      &trans  &trans         &trans
             >;
         };
